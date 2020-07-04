@@ -1,4 +1,4 @@
-# -StrayAnimals-Classification
+# Stray Animals Classification
 
 Binary Classification Problem
   
